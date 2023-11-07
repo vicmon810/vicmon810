@@ -40,10 +40,11 @@ Welcome to the Otago Staff Exchange Portal, a streamlined web application for Un
 <br>
 This website hosts a comprehensive catalog of New Zealand's bird species. Users can effortlessly search for birds using either their English or Maori names. Additionally, the platform allows users to filter and sort the bird species by alphabetical order, height, width, and conservation status, providing a user-friendly and informative resource for bird enthusiasts and conservationists.
 <p align="left">
-  <img src="bird1.png" alt="bird1" width="150"/>
-  <img src="bird2.png" alt="brid2" width="150"/>
-  <img src="bird3.png" alt="brid3" width="150"/>
+  <img src="demo1.png" alt="bird1" width="150"/>
+  <img src="demo2.png" alt="brid2" width="150"/>
 <p>
+
+  
 ## [mini-shell](https://github.com/vicmon810/mini-shell)
 - **Language:** C
 - **Last Updated:** Recently
