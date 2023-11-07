@@ -52,4 +52,9 @@ This website hosts a comprehensive catalog of New Zealand's bird species. Users 
 <img src="display.gif" alt="curve" width="300"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
