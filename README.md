@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kris There is what I'm doing right now: 
+### Hi there 👋, I'm Kris 
 
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +46,8 @@ This website hosts a comprehensive catalog of New Zealand's bird species. Users 
 
 
 
-## [COSC343-AI](https://github.com/vicmon810/COSC343-AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## [Koch Curve]([https://github.com/vicmon810/COSC343-AI](https://github.com/vicmon810/Koch_curve))
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 
