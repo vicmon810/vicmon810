@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ## [Otago__Market__place](https://github.com/vicmon810/Otago__Market__place)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- **Language:** JavaScript
-- **Last Updated:** Recently
+
 
 ## [Brids-of-NZ](https://github.com/vicmon810/Brids-of-NZ)
 - **Language:** Pug
