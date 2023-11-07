@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![GitHub issues](https://img.shields.io/github/issues/vicmon810/Otago__Market__place?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/vicmon810/Otago__Market__place?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/vicmon810/Otago__Market__place?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)
-Welcome to the Otago Staff Exchange Portal, a streamlined web application for University of Otago staff to share and claim office essentials. This digital marketplace simplifies locating and offering items like furniture, appliances, and supplies, ensuring resources are utilized efficiently within departments. Say goodbye to cluttered emails and connect directly with colleagues for a smoother exchange experience.
+![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)<br>
+Welcome to the Otago Staff Exchange Portal, a streamlined web application for University of Otago staff to share and claim office essentials. This digital marketplace simplifies locating and offering items like furniture, appliances, and supplies, ensuring resources are utilized efficiently within departments. Say goodbye to cluttered emails and connect directly with colleagues for a smoother exchange experience.<br>
 <p align="left">
   <img src="login.png" alt="login" width="300"/>
   <img src="creating.png" alt="creating" width="300"/>
