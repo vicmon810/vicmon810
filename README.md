@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![GitHub forks](https://img.shields.io/github/forks/vicmon810/Otago__Market__place?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/vicmon810/Otago__Market__place?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)
-<p align="right">
+<p align="left">
   <img src="login.png" alt="login" width="300"/>
   <img src="creating.png" alt="creating" width="300"/>
   <img src="viewing.png" alt="view" width="300"/>
