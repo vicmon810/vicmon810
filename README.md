@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vicmon810/Otago__Market__place?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/vicmon810/Otago__Market__place?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/vicmon810/Otago__Market__place?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/vicmon810/Otago__Market__place?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)
 
 
 
