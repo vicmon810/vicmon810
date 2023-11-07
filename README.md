@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Kris There is what I'm doing right now: 
 
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# vicmon810's GitHub Repositories
+# GitHub Repositories
 
 ## [Otago__Market__place](https://github.com/vicmon810/Otago__Market__place)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 - **Language:** JavaScript
 - **Last Updated:** Recently
 
