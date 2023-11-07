@@ -27,15 +27,23 @@ Here are some ideas to get you started:
 ![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)<br>
 Welcome to the Otago Staff Exchange Portal, a streamlined web application for University of Otago staff to share and claim office essentials. This digital marketplace simplifies locating and offering items like furniture, appliances, and supplies, ensuring resources are utilized efficiently within departments. Say goodbye to cluttered emails and connect directly with colleagues for a smoother exchange experience.<br>
 <p align="left">
-  <img src="login.png" alt="login" width="300"/>
-  <img src="creating.png" alt="creating" width="300"/>
-  <img src="viewing.png" alt="view" width="300"/>
+  <img src="login.png" alt="login" width="150"/>
+  <img src="creating.png" alt="creating" width="150"/>
+  <img src="viewing.png" alt="view" width="150"/>
 <p>
 
 ## [Brids-of-NZ](https://github.com/vicmon810/Brids-of-NZ)
-- **Language:** Pug
-- **Last Updated:** Recently
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
+This website hosts a comprehensive catalog of New Zealand's bird species. Users can effortlessly search for birds using either their English or Maori names. Additionally, the platform allows users to filter and sort the bird species by alphabetical order, height, width, and conservation status, providing a user-friendly and informative resource for bird enthusiasts and conservationists.
+<p align="left">
+  <img src="bird1.png" alt="bird1" width="150"/>
+  <img src="bird2.png" alt="brid2" width="150"/>
+  <img src="bird3.png" alt="brid3" width="150"/>
+<p>
 ## [mini-shell](https://github.com/vicmon810/mini-shell)
 - **Language:** C
 - **Last Updated:** Recently
