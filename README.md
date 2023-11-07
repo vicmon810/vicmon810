@@ -46,7 +46,7 @@ This website hosts a comprehensive catalog of New Zealand's bird species. Users 
 
 
 
-## [Koch Curve][https://github.com/vicmon810/COSC343-AI](https://github.com/vicmon810/Koch_curve)
+## [Koch Curve](https://github.com/vicmon810/Koch_curve)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <p align="left">
 <img src="display.gif" alt="curve" width="300"/>
