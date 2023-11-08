@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kris
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie)](https://github.com/vicmon810/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=12345)](https://gist.github.com/vicmon810/12345)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=99bfa6f5a70d5d9c97d42b2e4896de57)](https://gist.github.com/vicmon810/12345)
+[Gist: Description of Gist](https://gist.github.com/vicmon810/)
 
 
 <!--
