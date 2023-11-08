@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Kris
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie)](https://github.com/vicmon810/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=99bfa6f5a70d5d9c97d42b2e4896de57)](https://gist.github.com/vicmon810/12345)
-[Gist: Description of Gist](https://gist.github.com/vicmon810/)
+
 
 
 <!--
@@ -22,6 +21,8 @@ Here are some ideas to get you started:
 # GitHub Repositories
 
 ## [Otago Market Place](https://github.com/vicmon810/Otago__Market__place)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=99bfa6f5a70d5d9c97d42b2e4896de57)](https://gist.github.com/vicmon810/99bfa6f5a70d5d9c97d42b2e4896de57)
+
 A digital marketplace for University of Otago staff to exchange office essentials efficiently.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
