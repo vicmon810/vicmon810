@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## [Otago Market Place](https://github.com/vicmon810/Otago__Market__place)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=61bae4e43d3357b5f9c135298d2fc47d)](https://gist.github.com/vicmon810/61bae4e43d3357b5f9c135298d2fc47d)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=38de66a5d14265d3a344b0a061166b2c)](https://gist.github.com/vicmon810/38de66a5d14265d3a344b0a061166b2c)
 
 A digital marketplace for University of Otago staff to exchange office essentials efficiently.
 
