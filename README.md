@@ -59,7 +59,9 @@ Discover and learn about New Zealand's bird species with a user-friendly catalog
 
 ## [Koch Curve](https://github.com/vicmon810/Koch_curve)
 Explore the fractal beauty of the Koch snowflake curve.
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6dba6795938ba63523a2ee9d1ab72e10)](https://gist.github.com/vicmon810/6dba6795938ba63523a2ee9d1ab72e10)
+
+
+[![Custom Badge](https://img.shields.io/badge/Gist-View-orange)](https://gist.github.com/vicmon810/6dba6795938ba63523a2ee9d1ab72e10)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
