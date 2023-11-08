@@ -61,7 +61,8 @@ Discover and learn about New Zealand's bird species with a user-friendly catalog
 Explore the fractal beauty of the Koch snowflake curve.
 
 
-[![Custom Badge](https://img.shields.io/badge/Gist-View-orange)](https://gist.github.com/vicmon810/6dba6795938ba63523a2ee9d1ab72e10)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6dba6795938ba63523a2ee9d1ab72e10)](https://gist.github.com/vicmon810/6dba6795938ba63523a2ee9d1ab72e10)
+how to change it's style 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
