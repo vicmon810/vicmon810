@@ -52,6 +52,7 @@ This website hosts a comprehensive catalog of New Zealand's bird species. Users 
 <img src="display.gif" alt="curve" width="300"/>
 </p>
 
+![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=radical)
 
 <p alight ="left">
   <img src="github-contribution-grid-snake.svg" alt="git_controbute" >
