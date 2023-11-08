@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kris
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie)](https://github.com/vicmon810/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
