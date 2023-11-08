@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kris
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon810)](https://github.com/vicmon810/github-readme-stats)
-
+https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
