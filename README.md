@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kris
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie)](https://github.com/vicmon810/github-readme-stats)
-[![Otago Market Place](https://via.placeholder.com/150x50?text=Otago+Market+Place)](https://github.com/vicmon810/Otago__Market__place#readme)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=12345)](https://gist.github.com/vicmon810/12345)
+
 
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
