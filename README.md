@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kris
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie)](https://github.com/vicmon810/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
