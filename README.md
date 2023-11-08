@@ -42,6 +42,10 @@ A digital marketplace for University of Otago staff to exchange office essential
 </p>
 
 ## [Birds of NZ](https://github.com/vicmon810/Brids-of-NZ)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8445855169f0660c6ccdf161ffc9d764)](https://gist.github.com/vicmon810/8445855169f0660c6ccdf161ffc9d764)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2e5da3e2d7683dbdd0d4d447d294309e)](https://gist.github.com/vicmon810/2e5da3e2d7683dbdd0d4d447d294309e)
+
+
 Discover and learn about New Zealand's bird species with a user-friendly catalog.
 
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
@@ -55,6 +59,7 @@ Discover and learn about New Zealand's bird species with a user-friendly catalog
 
 ## [Koch Curve](https://github.com/vicmon810/Koch_curve)
 Explore the fractal beauty of the Koch snowflake curve.
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6dba6795938ba63523a2ee9d1ab72e10)](https://gist.github.com/vicmon810/6dba6795938ba63523a2ee9d1ab72e10)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
