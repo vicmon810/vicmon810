@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kris
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=compact)](https://github.com/vicmon810/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon810)](https://github.com/vicmon810/github-readme-stats)
 
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
