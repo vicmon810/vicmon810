@@ -74,6 +74,7 @@ Explore the fractal beauty of the Koch snowflake curve.
 
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=Gradient)
 
-[Link to GithubCity](https://honzaap.github.io/GithubCity/?name=vicmon810&year=2023)
+![GitHub Contribution Snake Animation](https://vicmon810.github.io/vicmon810/github-contribution-grid-snake.svg)
+
 
 
