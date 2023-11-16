@@ -39,9 +39,9 @@ A digital marketplace for University of Otago staff to exchange office essential
 ![GitHub language count](https://img.shields.io/github/languages/count/vicmon810/Otago__Market__place?style=flat-square)
 
 <p align="left">
-  <img src="login.png" alt="login" width="150"/>
-  <img src="creating.png" alt="creating" width="150"/>
-  <img src="viewing.png" alt="view" width="150"/>
+  <img src="login.png" alt="login" width="300"/>
+  <img src="creating.png" alt="creating" width="300"/>
+  <img src="viewing.png" alt="view" width="300"/>
 </p>
 
 ## [Birds of NZ](https://github.com/vicmon810/Brids-of-NZ)
@@ -56,8 +56,8 @@ Discover and learn about New Zealand's bird species with a user-friendly catalog
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="left">
-  <img src="demo1.png" alt="bird1" width="150"/>
-  <img src="demo2.png" alt="bird2" width="150"/>
+  <img src="demo1.png" alt="bird1" width="300"/>
+  <img src="demo2.png" alt="bird2" width="300"/>
 </p>
 
 ## [Koch Curve](https://github.com/vicmon810/Koch_curve)
