@@ -2,6 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=radical)](https://github.com/vicmon810/github-readme-stats)
+![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=radical&count_private=true&layout=compact)
 
 
 <!--
@@ -73,7 +74,7 @@ Explore the fractal beauty of the Koch snowflake curve.
 
 ---
 
-![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=Gradient)
+
 
 ![GitHub Contribution Snake Animation](https://vicmon810.github.io/vicmon810/github-contribution-grid-snake.svg)
 
