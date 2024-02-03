@@ -6,11 +6,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810/github-readme-stats)
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=panda&count_private=true&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Contribution Snake Animation](https://vicmon810.github.io/vicmon810/github-contribution-grid-snake.svg)
 
 
 <!--
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon)](https://github.com/anuraghazra/github-readme-stats)
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
