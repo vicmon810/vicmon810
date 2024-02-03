@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kris.
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
-- 🔭 I’m currently working LeetCode 
+
 - 🌱 I’m currently learning Data Science from UoA
 - ⚡ Fun fact: How were microwave ovens developed? Percy Spencer invented the first microwave oven after World War II from radar technology developed during the war. Named the "Radarange", it was first sold in 1946.
 
