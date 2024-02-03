@@ -5,8 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810/github-readme-stats)
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=panda&count_private=true&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 ![GitHub Contribution Snake Animation](https://vicmon810.github.io/vicmon810/github-contribution-grid-snake.svg)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon810)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
