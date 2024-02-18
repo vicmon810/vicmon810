@@ -2,6 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
 -  🌱 I’m currently learning Data Science from UoA
+- 💬 Ask me about anything, apart from things I don't know which is everything.
 -  ⚡ Fun fact: A shrimp's heart is in its head
 
   
