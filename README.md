@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Why is so hard to find a jobs aâ
+
 -->
+
 
