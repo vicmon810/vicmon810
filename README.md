@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 
-Why is so hard to find a jobs aâ
+Why is so hard to find a jobs 
 
 -->
 
