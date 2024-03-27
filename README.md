@@ -5,18 +5,7 @@
 -  ⚡ Fun fact: A shrimp's heart is in its head
 
 
-| Front End | Back End | Devop |
-|----------|----------|----------|
-|<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black" width="100">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" width="100">
-  <img src="https://img.shields.io/badge/-Pub-40C4FF?style=flat-square&logo=dart&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="100">
-</p>
-     | Data     | Data     |
+
 
   
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true&layout=compact)
