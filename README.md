@@ -7,7 +7,8 @@
 
 | Front End | Back End | Devop |
 |----------|----------|----------|
-|![JavaScript](icons/javascript.png)
+|![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+
 
 
     | Data     | Data     |
