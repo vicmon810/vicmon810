@@ -8,7 +8,6 @@
 | Front End | Back End | Devop |
 |----------|----------|----------|
 | 
-|![JavaScript](icons/javascript.png)
 
 
     | Data     | Data     |
