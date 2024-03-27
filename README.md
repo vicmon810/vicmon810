@@ -15,14 +15,8 @@
   <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" width="100">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="100">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="100">
-</p>
+</p>          | Data     | Data     |
 
-
-
-
-    | Data     | Data     |
-| Row 2    | Data     | Data     |
-| Row 3    | Data     | Data     |
   
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810/github-readme-stats)
