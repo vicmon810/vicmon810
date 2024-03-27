@@ -7,10 +7,7 @@
 
 | Front End | Back End | Devop |
 |----------|----------|----------|
-| 
-
-
-    | Data     | Data     |
+|     | Data     | Data     |
 
   
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true&layout=compact)
