@@ -4,6 +4,13 @@
 -  🌱 I’m currently learning Data Science at UoA
 -  ⚡ Fun fact: A shrimp's heart is in its head
 
+
+| Front End | Back End | Devop |
+|----------|----------|----------|
+| ![npm version](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME.svg)
+    | Data     | Data     |
+| Row 2    | Data     | Data     |
+| Row 3    | Data     | Data     |
   
 ![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810/github-readme-stats)
