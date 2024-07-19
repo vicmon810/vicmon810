@@ -1,6 +1,4 @@
-## Hi there 👋, 
-
-I'm Kris
+## Hi there 👋, I'm Kris
 
 
 | Front end | Back end | DevOpe |
