@@ -6,6 +6,8 @@
 | <img src="https://simpleicons.org/icons/javascript.svg" width="40" title="JavaScript"><img src="https://simpleicons.org/icons/react.svg" width="40" title="React"><br><img src="https://simpleicons.org/icons/nodedotjs.svg" width="40" title="Node.js"><img src="https://simpleicons.org/icons/dart.svg" width="40" title="Dart"><br><img src="https://simpleicons.org/icons/npm.svg" width="40" title="npm"><img src="https://simpleicons.org/icons/css3.svg" width="40" title="CSS3"><img src="https://simpleicons.org/icons/typescript.svg" width="40" title="TypeScript">|<img src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40" alt="MongoDB"><img src="https://simpleicons.org/icons/mysql.svg" width="40" height="40" alt="MySQL"><img src="https://simpleicons.org/icons/nodedotjs.svg" width="40" height="40" alt="Node.js">|<img src="https://simpleicons.org/icons/git.svg" width="40" height="40" alt="Git"><img src="https://simpleicons.org/icons/docker.svg" width="40" height="40" alt="Docker">|
 
 
+
+
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
 -  🌱 I’m currently doing a master degree of Data Science at UoA
