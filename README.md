@@ -54,8 +54,6 @@ I’m particularly interested in building **practical, responsible AI systems** 
 
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=compact&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810)
 
 ---
 
