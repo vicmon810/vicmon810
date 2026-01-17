@@ -1,45 +1,70 @@
-# Hi there 👋, I'm Kris
+# Hi 👋, I'm Kris Mao
+
+🎓 Computer Science graduate and current **Master of Data Science** student at the University of Auckland  
+🤖 Python-first **Applied AI / Data Developer** focused on real-world operational and safety problems  
+
+I’m particularly interested in building **practical, responsible AI systems** — not just models in notebooks, but AI tools that can be safely integrated into real workflows.
+
+---
+
+## 🔍 What I’m Working On
+- Applied AI systems with a focus on **control, reliability, and real-world integration**
+- Data preprocessing and analysis for structured and unstructured data
+- Exploring how AI can support **operational efficiency, risk detection, and safety-critical decision-making**
+- Packaging academic work into **production-oriented AI solutions**
+
+---
+
+## 🧠 Core Skills
+
+### Applied AI & Data
+- **Python**, NumPy, Pandas
+- Data preprocessing, feature engineering
+- Machine Learning fundamentals
+- API-based AI integration
+- Responsible & safety-conscious AI design
+
+### Software & Systems
+- Java, JavaScript / TypeScript
+- Node.js, React
+- Git, Docker
+
+### Data & Platforms
+- SQL
+- Tableau
+- Azure (basic exposure)
+
+---
+
+## 🚀 Featured Project
+
+### Applied AI System for Controlled Automation (Master’s Project)
+- Designed and implemented a **Python-based AI system** integrating large language models into operational workflows.
+- Built validation layers and execution guardrails to ensure **predictable, auditable, and safe AI behaviour**.
+- Focused on **system-level reliability**, data preprocessing, and integration rather than standalone model performance.
+- Explored how the system could be adapted to **operational and safety-critical environments**.
+
+*(Details available in pinned repositories.)*
+
+---
+
+## 📊 Coding Activity & Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kris?theme=dark)
 
-
-| Front end | Back end | DevOpe |
-|----------|----------|----------|
-| <img src="https://simpleicons.org/icons/javascript.svg" width="40" title="JavaScript"><img src="https://simpleicons.org/icons/react.svg" width="40" title="React"><br><img src="https://simpleicons.org/icons/nodedotjs.svg" width="40" title="Node.js"><img src="https://simpleicons.org/icons/dart.svg" width="40" title="Dart"><br><img src="https://simpleicons.org/icons/npm.svg" width="40" title="npm"><img src="https://simpleicons.org/icons/typescript.svg" width="40" title="TypeScript">|<img src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40" alt="MongoDB"><img src="https://simpleicons.org/icons/mysql.svg" width="40" height="40" alt="MySQL"><img src="https://simpleicons.org/icons/nodedotjs.svg" width="40" height="40" alt="Node.js">|<img src="https://simpleicons.org/icons/git.svg" width="40" height="40" alt="Git"><img src="https://simpleicons.org/icons/docker.svg" width="40" height="40" alt="Docker">|
-
-
-
-
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
--  🌱 I’m currently doing a master degree of Data Science at UoA
--  ⚡ Fun fact: A shrimp's heart is in its head
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=compact&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810)
 
+---
 
+## 🌱 Currently Learning
+- Advanced Python for applied AI
+- Machine learning deployment considerations
+- AI system design for operational and safety-focused use cases
 
+---
 
-  
-![Vicmon810's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmon810&show_icons=true&theme=swift&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmon810&layout=pie&hide=html,css&langs_count=8&theme=swift)](https://github.com/vicmon810/github-readme-stats)
-
-![GitHub Contribution Snake Animation](https://vicmon810.github.io/vicmon810/github-contribution-grid-snake.svg)
-
-
-<!--
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicmon)](https://github.com/anuraghazra/github-readme-stats)
-**vicmon810/vicmon810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-gg
-Here are some ideas to get you started:
-- what is your mane  
-- 🔭 I’m currently working on .- 🌱 I’m currently learning ...1
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-Why is so hard to find a jobs 1
-
--->
-
-
+## 📫 Let’s Connect
+If you're interested in **applied AI, data-driven systems, or practical AI for real-world impact**, feel free to reach out.
