@@ -50,7 +50,7 @@ I’m particularly interested in building **practical, responsible AI systems** 
 
 ## 📊 Coding Activity & Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kris?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vicmon810?theme=dark)
 
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
