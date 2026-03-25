@@ -12,7 +12,7 @@ I’m particularly interested in building **practical, responsible AI systems** 
 - Data preprocessing and analysis for structured and unstructured data
 - Exploring how AI can support **operational efficiency, risk detection, and safety-critical decision-making**
 - Packaging academic work into **production-oriented AI solutions**
-
+- [Writing a tutorial that merges concepts from ML, statistics, and CS.](https://vicmon810.github.io/why_is_it_connected/)
 ---
 
 ## 🧠 Core Skills
