@@ -8,10 +8,11 @@ I’m particularly interested in building **practical, responsible AI systems** 
 ---
 
 ## 🔍 What I’m Working On
+
 - Applied AI systems with a focus on **control, reliability, and real-world integration**
 - Data preprocessing and analysis for structured and unstructured data
-- Exploring how AI can support **operational efficiency, risk detection, and safety-critical decision-making**
-- Packaging academic work into **production-oriented AI solutions**
+- [Exploring how AI can support **operational efficiency, risk detection, and safety-critical decision-making**](https://github.com/vicmon810/Open_Web_Code_Action)
+- [**Production-grade RAG** System for Reliable Decision Support](https://github.com/vicmon810/RAG_example)
 - [Writing a tutorial that merges concepts from ML, statistics, and CS.](https://vicmon810.github.io/why_is_it_connected/)
 ---
 
