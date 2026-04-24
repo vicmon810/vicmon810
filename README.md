@@ -16,6 +16,10 @@ I’m particularly interested in building **practical, responsible AI systems** 
 - [Writing a tutorial that merges concepts from ML, statistics, and CS.](https://vicmon810.github.io/why_is_it_connected/)
 ---
 
+## Server Status 
+![Linux Server Status](./status.svg) 
+
+
 ## 🧠 Core Skills
 
 ### Applied AI & Data
