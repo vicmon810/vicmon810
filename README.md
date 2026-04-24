@@ -47,7 +47,7 @@ I build practical AI and data systems with Python, focusing on reliability, auto
 
 [![wakatime](https://wakatime.com/badge/user/018bac48-ef32-4c63-85e7-1911bd66d9d8.svg)](https://wakatime.com/@018bac48-ef32-4c63-85e7-1911bd66d9d8)
 
----
+----
 
 ## Contact
 
