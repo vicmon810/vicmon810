@@ -29,8 +29,11 @@ I build practical AI and data systems with Python, focusing on reliability, auto
 
 ## Server Status
 
-![Linux Server Status](./status.svg)
-![Raspberry Pi Server Status](./status-pi.svg)
+## Lab Status
+
+| Linux Server | Raspberry Pi |
+|---|---|---|
+| ![Linux Server](./status-server.svg) | ![Raspberry Pi](./status-pi.svg) | 
 ---
 
 ## Skills
