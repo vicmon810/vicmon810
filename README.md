@@ -27,7 +27,6 @@ I build practical AI and data systems with Python, focusing on reliability, auto
 
 ---
 
-## Server Status
 
 ## Lab Status
 
