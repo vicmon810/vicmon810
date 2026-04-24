@@ -1,0 +1,24 @@
+<svg width="620" height="220" viewBox="0 0 620 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="620" height="220" rx="16" fill="#1d2021"/>
+  <rect x="18" y="18" width="584" height="184" rx="12" fill="#282828" stroke="#504945"/>
+
+  <text x="36" y="52" fill="#fabd2f" font-family="monospace" font-size="22" font-weight="700">Linux Server Status</text>
+  <text x="36" y="82" fill="#928374" font-family="monospace" font-size="13">Live snapshot from my server</text>
+
+  <text x="36" y="116" fill="#83a598" font-family="monospace" font-size="15">CPU</text>
+  <text x="170" y="116" fill="#ebdbb2" font-family="monospace" font-size="15">6.2%</text>
+
+  <text x="36" y="142" fill="#83a598" font-family="monospace" font-size="15">Memory</text>
+  <text x="170" y="142" fill="#ebdbb2" font-family="monospace" font-size="15">3882MB / 15888MB (24.4%)</text>
+
+  <text x="36" y="168" fill="#83a598" font-family="monospace" font-size="15">Disk</text>
+  <text x="170" y="168" fill="#ebdbb2" font-family="monospace" font-size="15">47G / 98G (51%)</text>
+
+  <text x="330" y="116" fill="#83a598" font-family="monospace" font-size="15">Uptime</text>
+  <text x="430" y="116" fill="#ebdbb2" font-family="monospace" font-size="15">4 days, 18 hours, 16 minutes</text>
+
+  <text x="330" y="142" fill="#83a598" font-family="monospace" font-size="15">Load</text>
+  <text x="430" y="142" fill="#ebdbb2" font-family="monospace" font-size="15">0.97 1.13 0.93</text>
+
+  <text x="36" y="190" fill="#928374" font-family="monospace" font-size="12">Updated: 2026-04-24 02:18:55 UTC</text>
+</svg>
