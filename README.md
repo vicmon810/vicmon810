@@ -30,7 +30,7 @@ I build practical AI and data systems with Python, focusing on reliability, auto
 ## Server Status
 
 ![Linux Server Status](./status.svg)
-
+![Raspberry Pi Server Status](./status-pi.svg)
 ---
 
 ## Skills
