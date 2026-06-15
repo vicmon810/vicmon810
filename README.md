@@ -1,7 +1,23 @@
 # Hi, I'm Kris Mao 👋
 
+<p align="left">
+  <a href="mailto:m384572038@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kris-mao-85553324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://vicmon810.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 Master of Data Science student at the University of Auckland.  
 I build practical AI and data systems with Python, focusing on reliability, automation, and real-world integration.
+
+
 
 ---
 
