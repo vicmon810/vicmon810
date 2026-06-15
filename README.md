@@ -2,15 +2,13 @@
 
 <p align="left">
   <a href="mailto:m384572038@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-m384572038%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/kris-mao-85553324b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kris%20Mao-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://vicmon810.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-vicmon810.github.io-111827?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
